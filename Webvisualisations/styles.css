@@ -1,0 +1,56 @@
+.box {
+  min-height: 50px;
+  padding: 5px;
+  margin: 5px;
+  font-weight: 800;
+  color: #fff;
+}
+
+hr.hr1 {
+  border-top: 1px solid rgb(252, 236, 236);
+}
+
+.Fig1 {
+  width: 45%;
+  margin: 1.5px;
+  padding: 5px;
+}
+
+.Fig2 {
+  width: 100%;
+}
+
+.Fig3 {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4px;
+  justify-content: center;
+}
+
+.column {
+  flex: 10%;
+  padding: 0px;
+}
+
+.column img {
+  margin-top: 1px;
+}
+
+
+.skyblue {
+  background: deepskyblue;
+}
+
+.purple {
+  background: rebeccapurple;
+}
+
+.red {
+  background: indianred;
+}
+
+
